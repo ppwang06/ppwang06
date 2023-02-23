@@ -6,7 +6,7 @@
 
 * 微信公众号：<!--逆向学习之路-->
 * Blog：https://www.cnblogs.com/ppwang06
-* Email：ppwang06@163.com
+* E-mail：ppwang06@163.com
 
 
 
